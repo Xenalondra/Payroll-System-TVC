@@ -1,0 +1,370 @@
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe.config
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csprojResolveAssemblyReference.cache
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.g.cs
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.g.cs
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.cache
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.lref
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.pdb
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.dll
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.pdb
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.baml
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.g.resources
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem_Version2.Properties.Resources.resources
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csproj.GenerateResource.Cache
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.exe
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.pdb
+c:\users\padil\onedrive\documents\visual studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Data.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Web.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\Google.Protobuf.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\Renci.SshNet.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Data.xml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Web.xml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe.config
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.exe
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.pdb
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.pdb
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.dll
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\Google.Protobuf.dll
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\Renci.SshNet.dll
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Data.xml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Web.xml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csprojResolveAssemblyReference.cache
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.g.cs
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.cache
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.lref
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.baml
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.g.resources
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem_Version2.Properties.Resources.resources
+C:\Users\padil\Downloads\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csproj.GenerateResource.Cache
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe.config
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.exe
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.pdb
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.pdb
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\Google.Protobuf.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\Renci.SshNet.dll
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Data.xml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Web.xml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csprojResolveAssemblyReference.cache
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.g.cs
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.cache
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.lref
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.baml
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.g.resources
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem_Version2.Properties.Resources.resources
+C:\Users\padil\OneDrive\Documents\Visual Studio 2015\Projects\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csproj.GenerateResource.Cache
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe.config
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.exe
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.pdb
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.pdb
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.dll
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\Google.Protobuf.dll
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\Renci.SshNet.dll
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Data.xml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MySql.Web.xml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csprojResolveAssemblyReference.cache
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.g.cs
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.cache
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.lref
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.baml
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.g.resources
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem_Version2.Properties.Resources.resources
+C:\Users\padil\Downloads\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csproj.GenerateResource.Cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe.config
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.dll
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.lref
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.g.resources
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem_Version2.Properties.Resources.resources
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csproj.GenerateResource.Cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.exe
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csprojResolveAssemblyReference.cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe.config
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.exe
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.exe
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\payrollSystem Version2.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.dll
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignColors.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csprojResolveAssemblyReference.cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2_MarkupCompile.lref
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\App.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminEmployee.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperAdmin.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPage.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\AdminPayrollList.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperUsers.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperEmployee.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Employee.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\hrPayrollList.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\HumanResource.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\LoginForm.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\MainWindow.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\ManageUsers.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\SuperPayroll.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Payroll.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\PayrollMaster.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\Calendar.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\pmHistory.baml
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.g.resources
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem_Version2.Properties.Resources.resources
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\payrollSystem Version2\payrollSystem Version2\obj\Debug\payrollSystem Version2.csproj.GenerateResource.Cache
