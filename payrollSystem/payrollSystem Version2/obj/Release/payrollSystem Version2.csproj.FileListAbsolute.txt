@@ -1,0 +1,24 @@
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\AdminEmployee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\AdminHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\SuperAdmin.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\AdminPage.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\AdminPayrollList.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\SuperHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\SuperUsers.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\SuperEmployee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\Employee.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\hrHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\hrPayrollList.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\HumanResource.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\LoginForm.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\MainWindow.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\ManageUsers.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\SuperPayroll.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\Payroll.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\PayrollMaster.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\Calendar.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\pmHistory.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\App.g.cs
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\payrollSystem Version2_MarkupCompile.cache
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\obj\Release\payrollSystem Version2_MarkupCompile.lref
+C:\Users\padil\OneDrive\Desktop\FINAL NA FINAL\FINAL (1)\FINAL\payrollSystem Version2\payrollSystem Version2\bin\Release\payrollSystem Version2.exe.config
