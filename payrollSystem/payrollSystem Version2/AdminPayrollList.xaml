@@ -1,0 +1,69 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:payrollSystem_Version2"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes" x:Class="payrollSystem_Version2.AdminPayrollList"
+        mc:Ignorable="d"
+         Title="Payroll List" Height="619.649" Width="1049.521" WindowStartupLocation="CenterScreen">
+    <Grid Background="#FF374057" Margin="-1,-6,-0.8,0.6">
+        <StackPanel HorizontalAlignment="Left" Height="42" Margin="960,84,0,0" VerticalAlignment="Top" Width="47" RenderTransformOrigin="1.093,0.542">
+            <Image Source="resources/search.png" Margin="-3,0,0.6,0" Height="38"/>
+        </StackPanel>
+        <Label x:Name="label1_Copy3" Content="Search:" HorizontalAlignment="Left" Height="25" Margin="632,99,0,0" VerticalAlignment="Top" Width="66" FontSize="14" FontFamily="Cambria Math" Foreground="#FFD4F2E8"/>
+        <TextBox x:Name="txtSearch" HorizontalAlignment="Left" Height="32" Margin="703,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="254" RenderTransformOrigin="0.412,-0.03" Background="#FF76798A" TextChanged="txtSearch_TextChanged" Foreground="White" FontFamily="Cambria Math" FontSize="16"/>
+        <TextBlock x:Name="date"  Foreground="#FFD4F2E8" FontSize="16" Height="40" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Center" Width="264" Margin="19,18,0,537.8" ><Run Text="            "/><Run Text="9/26/2019 2:50:36 AM"/></TextBlock>
+
+        <StackPanel VerticalAlignment="Center" Margin="863,16,15,544.8">
+            <materialDesign:PopupBox HorizontalAlignment="Stretch" Margin="111,5,8.8,5" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False" Foreground="#FFFCFCFC">
+                <StackPanel Width="150">
+                    <Button x:Name="btnHome1" Content="Home" Background="#FFD4AF37" Click="btnHome_Click_1" />
+                    <Button x:Name="btnAbout" Content="About Us" Background="#FFD4AF37" Click="btnAbout_Click" />
+                    <Button x:Name="btnContact" Content="Contact Us" Background="#FFD4AF37" Click="btnContact_Click" />
+                    <Separator/>
+                    <Button x:Name="btnHelp" Content="Help" Background="#FFD4AF37" Click="btnHelp_Click"/>
+                </StackPanel>
+            </materialDesign:PopupBox>
+        </StackPanel>
+        <DataGrid x:Name="lvPayroll" Margin="0,0,25,39.8" BorderBrush="{x:Null}" Foreground="#FFFCFCF8" FontFamily="Cambria Math" FontWeight="Normal" 
+            ScrollViewer.HorizontalScrollBarVisibility="Disabled" HorizontalContentAlignment="Stretch" ToolTip="Payroll of Employees" Height="413" VerticalAlignment="Bottom" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Right" Width="993" VerticalGridLinesBrush="{x:Null}" HorizontalGridLinesBrush="{x:Null}" FontSize="14" Grid.IsSharedSizeScope="True" HorizontalScrollBarVisibility="Visible">
+            <DataGrid.Background>
+                <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                    <GradientStop Color="#FF40E6B8" Offset="0"/>
+                    <GradientStop Color="#FF1AD4BC" Offset="0.109"/>
+                    <GradientStop Color="#FF16C8C9" Offset="0.297"/>
+                    <GradientStop Color="#FF2FB1C6" Offset="1"/>
+                </LinearGradientBrush>
+            </DataGrid.Background>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Employee ID" Binding="{Binding EID}" Width="100" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="150" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" CanUserResize="False" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Position" Binding="{Binding Position}" Width="110" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Daily Rate" Binding="{Binding DailyRate}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="no. of Days" Binding="{Binding Num_days}" Width="100" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Rate Wage" Binding="{Binding RateWage}" Width="130" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="OT hours" Binding="{Binding OThours}" Width="100" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Overtime Pay" Binding="{Binding Overtime}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Night Differential" Binding="{Binding NightDifferential}" Width="135" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Philhealth" Binding="{Binding Philhealth}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True" Foreground="#FFF6ECEC"/>
+                <DataGridTextColumn Header="Holliday Pay" Binding="{Binding HollPay}" Width="125" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Basic Pay" Binding="{Binding Basic_Pay}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Cash Advance" Binding="{Binding Cash_ad}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Philhealth" Binding="{Binding Philhealth}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" Foreground="#FFF6ECEC"/>
+                <DataGridTextColumn Header="Withholding Tax" Binding="{Binding WithholdingTax}" Width="130" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Pag-ibig" Binding="{Binding Pagibig}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="SSS" Binding="{Binding SSS}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Other Deduction" Binding="{Binding OtherDeduc}" Width="200" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Amount" Binding="{Binding Amount}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Total Deduction" Binding="{Binding Total_Deduc}" Width="120" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Net Income" Binding="{Binding Net_income}" Width="180" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" Foreground="White"/>
+                <DataGridTextColumn Header="Pay Day" Binding="{Binding PayDay}" Width="105" FontFamily="Cambria Math" FontSize="14" FontWeight="Bold" IsReadOnly="True" CanUserResize="False"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="label" Content="P" HorizontalAlignment="Left" Margin="33,28,0,0" VerticalAlignment="Top" Height="116" Width="67" FontFamily="Javanese Text" FontWeight="Bold" FontSize="72" Foreground="#FFD4AF37"/>
+        <Label x:Name="label1" Content="ayroll" HorizontalAlignment="Left" Margin="74,82,0,0" VerticalAlignment="Top" Height="50" Width="122" Foreground="#FFD4AF37" FontFamily="Cambria Math" FontSize="36"/>
+        <Label x:Name="label1_Copy" Content="List" HorizontalAlignment="Left" Margin="169,73,0,0" VerticalAlignment="Top" Height="52" Width="122" Foreground="#FFF6F5F3" FontFamily="Cambria Math" FontSize="48"/>
+
+    </Grid>
+</Window>
